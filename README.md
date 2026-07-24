@@ -1,5 +1,39 @@
 # HR-Deshboard-Power-BI-
 
+# Deutsch
+
+**HR-Analytics-Dashboard – Power BI**
+
+**Projektüberblick**
+
+Dieses Projekt präsentiert ein in Power BI erstelltes HR-Analytics-Dashboard, das Organisationen dabei unterstützt, Kennzahlen zur Belegschaft zu überwachen und datengestützte Personalentscheidungen zu treffen.
+Das Dashboard liefert Einblicke in Mitarbeiterdemografie, Fluktuationstrends, Stellenprofile und Leistungskennzahlen. So können HR-Teams Risiken erkennen und Strategien zur Mitarbeiterbindung optimieren.
+
+**Zielsetzungen**
+- Analyse von Mitarbeiterfluktuation und -bindung
+- Verständnis der Belegschaftsstruktur nach Alter, Geschlecht, Abteilung und Stellenprofil
+- Identifikation wesentlicher Faktoren, die zur Fluktuation beitragen
+- Unterstützung der strategischen Personalplanung durch interaktive Visualisierungen
+
+**Datensatz**
+Typ: HR-Mitarbeiterdaten
+
+**Verwendete Tools**
+- Power BI
+- Datenbereinigung und -modellierung
+- DAX-Kennzahlen (KPIs)
+
+**Wichtige Erkenntnisse**
+- Erhöhte Fluktuation in bestimmten Stellenprofilen und Abteilungen festgestellt
+- Höhere Fluktuationsrate bei jüngeren Mitarbeitern
+- Gehalt und Berufserfahrung beeinflussen die Mitarbeiterbindung
+
+**Fazit**
+
+Das HR-Dashboard in Power BI unterstützt HR-Teams dabei, Trends in der Belegschaft und Fluktuationsrisiken schnell zu erkennen. Dies ermöglicht eine proaktive Entscheidungsfindung sowie ein effektives Talentmanagement.
+
+# English
+
 **HR Analytics Dashboard – Power BI**
 
 **Project Overview**
